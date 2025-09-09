@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "quantity": 5,
+    "price": 55000,
+    "date": "2025-09-09"
+  },
+  {
+    "id": 2,
+    "name": "Shoes",
+    "category": "Fashion",
+    "quantity": 20,
+    "price": 1999,
+    "date": "2025-09-09"
+  }
+]
