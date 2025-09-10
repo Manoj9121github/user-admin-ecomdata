@@ -35,6 +35,14 @@
       "quantity": 10,
       "date": "2025-09-10",
       "image": "/images/bottle.jpg"
+    },
+    {
+      "id": 1757504709941,
+      "name": "apple iphone",
+      "category": "mobile",
+      "price": 55000,
+      "quantity": 2,
+      "date": "2025-09-10"
     }
   ],
   "orders": [
