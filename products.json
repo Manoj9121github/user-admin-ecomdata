@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Shoes",
       "category": "Fashion",
-      "quantity": 18,
+      "quantity": 17,
       "price": 1999,
       "date": "2025-09-09"
     },
@@ -76,6 +76,15 @@
       "quantity": 1,
       "totalPrice": 55000,
       "orderDate": "2025-09-10T08:36:04.194Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757493368363,
+      "productId": 2,
+      "quantity": 1,
+      "totalPrice": 1999,
+      "orderDate": "2025-09-10T08:36:08.363Z",
       "customer": "Guest",
       "status": "pending"
     }
