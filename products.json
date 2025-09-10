@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Laptop",
       "category": "Electronics",
-      "quantity": 3,
+      "quantity": 2,
       "price": 55000,
       "date": "2025-09-09",
       "image": "/images/laptop.jpg"
@@ -98,6 +98,15 @@
       "quantity": 1,
       "totalPrice": 1400,
       "orderDate": "2025-09-10T08:36:31.802Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757497741279,
+      "productId": 1,
+      "quantity": 1,
+      "totalPrice": 55000,
+      "orderDate": "2025-09-10T09:49:01.280Z",
       "customer": "Guest",
       "status": "pending"
     }
