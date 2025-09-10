@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Laptop",
       "category": "Electronics",
-      "quantity": 3,
+      "quantity": 2,
       "price": 55000,
       "date": "2025-09-09",
       "image": "/images/laptop.jpg"
@@ -35,6 +35,15 @@
       "quantity": 10,
       "date": "2025-09-10",
       "image": "/images/bottle.jpg"
+    },
+    {
+      "id": 1757504709941,
+      "name": "apple iphone",
+      "category": "mobile",
+      "price": 55000,
+      "quantity": 2,
+      "date": "2025-09-10",
+      "image": "/images/iphone.jpg"
     }
   ],
   "orders": [
@@ -98,6 +107,183 @@
       "quantity": 1,
       "totalPrice": 1400,
       "orderDate": "2025-09-10T08:36:31.802Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757497741279,
+      "productId": 1,
+      "quantity": 1,
+      "totalPrice": 55000,
+      "orderDate": "2025-09-10T09:49:01.280Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757498307433,
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "category": "Electronics",
+          "quantity": 2,
+          "price": 55000,
+          "date": "2025-09-09",
+          "image": "/images/laptop.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T09:58:27.433Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757498458425,
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "category": "Electronics",
+          "quantity": 2,
+          "price": 55000,
+          "date": "2025-09-09",
+          "image": "/images/laptop.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T10:00:58.425Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757498459920,
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "category": "Electronics",
+          "quantity": 2,
+          "price": 55000,
+          "date": "2025-09-09",
+          "image": "/images/laptop.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T10:00:59.920Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757498646154,
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "category": "Electronics",
+          "quantity": 2,
+          "price": 55000,
+          "date": "2025-09-09",
+          "image": "/images/laptop.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T10:04:06.154Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757498659043,
+      "items": [
+        {
+          "id": 1757491129691,
+          "name": "Earphones",
+          "category": "Electronics",
+          "price": 1400,
+          "quantity": 10,
+          "date": "2025-09-10",
+          "image": "/images/earphones.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T10:04:19.043Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757499656314,
+      "items": [
+        {
+          "id": 1,
+          "name": "Laptop",
+          "category": "Electronics",
+          "quantity": 2,
+          "price": 55000,
+          "date": "2025-09-09",
+          "image": "/images/laptop.jpg",
+          "selectedQty": 1
+        },
+        {
+          "id": 2,
+          "name": "Shoes",
+          "category": "Fashion",
+          "quantity": 17,
+          "price": 1999,
+          "date": "2025-09-09",
+          "image": "/images/shoes.png",
+          "selectedQty": 1
+        }
+      ],
+      "orderDate": "2025-09-10T10:20:56.314Z",
       "customer": "Guest",
       "status": "pending"
     }
