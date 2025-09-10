@@ -15,6 +15,14 @@
       "quantity": 20,
       "price": 1999,
       "date": "2025-09-09"
+    },
+    {
+      "id": 1757491129691,
+      "name": "earphones",
+      "category": "electronics",
+      "price": 1400,
+      "quantity": 12,
+      "date": "2025-09-10"
     }
   ],
   "orders": []
