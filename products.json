@@ -21,7 +21,7 @@
       "name": "earphones",
       "category": "electronics",
       "price": 1400,
-      "quantity": 11,
+      "quantity": 10,
       "date": "2025-09-10"
     },
     {
@@ -85,6 +85,15 @@
       "quantity": 1,
       "totalPrice": 1999,
       "orderDate": "2025-09-10T08:36:08.363Z",
+      "customer": "Guest",
+      "status": "pending"
+    },
+    {
+      "orderId": 1757493391802,
+      "productId": 1757491129691,
+      "quantity": 1,
+      "totalPrice": 1400,
+      "orderDate": "2025-09-10T08:36:31.802Z",
       "customer": "Guest",
       "status": "pending"
     }
